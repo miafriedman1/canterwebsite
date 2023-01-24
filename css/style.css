@@ -1,0 +1,66 @@
+h1{
+    font-size: 500%;
+    font-weight: bolder;
+    font: "Luckiest Guy", Oswald, Ariel;
+    color: Black;
+    text-align: center;
+
+}
+h2{
+    background-color: rgb(192, 244, 192);
+    color: rgb(14, 119, 14);
+    font-weight: bold;
+    font-size: 300%;
+    text-align: center;
+}
+h3{
+    font-size: 250%;
+    font-weight: bold;
+    color: navy;
+    background-color: rgb(235, 235, 180);
+    border: 5px dotted navy;
+    border-radius: 30px;
+    text-align: center;
+}
+h4{
+    font-size: 250%;
+    font-weight: bold;
+    color: rgb(71, 5, 5);
+    background-color: rgb(238, 177, 218);
+    border: 5px dotted red;
+    border-radius: 30px;
+    text-align: center;
+}
+h5{
+    font-size: 325%;
+    font-weight: bold;
+    color: rgb(235, 20, 149);
+    background-color: rgb(233, 235, 118);
+    border: 5px dotted rgb(0, 255, 225);
+    border-radius: 30px;
+    text-align: center;
+}
+.gameday{
+    width: 30%;
+    height: auto;
+    border: 3px dashed navy;
+}
+.party{
+    width: 30%;
+    height: auto;
+    border: 15px dotted orange;
+}
+.love{
+    width: 30%;
+    height: auto;
+    border: 8px solid pink;
+}
+.banner{
+    width: 100%;
+}
+footer{
+    background-color: rgb(176, 199, 253);
+    color: rgb(53, 35, 210);
+    font-weight: bold;
+    font-size: 400%;
+}
